@@ -23,15 +23,15 @@
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
-            "value": "d03ea83365f488f7003c885ed132615b"
+            "value": "ab76e94f4df783e624923968e184f6f2"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "ParitoshPky_Official"
+            "value": "infinitepdisk"
         },
         "THUMB_URL": {
             "description": "Enter the permanent thumbnail image url can use this @HK_telegraph_BOT",
-            "value" : ""
+            "value" : "https://telegra.ph/file/512578570a70ac07e13d8.jpg"
         }
     },
     "addons": [],
