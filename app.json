@@ -11,7 +11,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": "2124322450:AAHMglIjEkK8CgOByBMuJo6rXL5pa5XuTvM"
+            "value": ""
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
