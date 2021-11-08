@@ -11,15 +11,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "2124322450:AAHMglIjEkK8CgOByBMuJo6rXL5pa5XuTvM"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "4348312"
+            "value": "2064775"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "04fc2de75c898324561286e5b10bd619"
+            "value": "fad43446a5584f132fab84e1aa5cf854"
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
