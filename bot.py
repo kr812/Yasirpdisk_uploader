@@ -84,7 +84,7 @@ async def get_ptitle(url):
 
 
 async def pdisk_up(link):
-    if ('pdisk' in link or 'wslinker' in link or 'dplinks' in link or 'cdinks' in link or 'kuklink' in link or 'kofilink' in link or 'cofilink' in link or 'bit' in link or 'vdshort' in link or link in 'vidrivers' or 'dplinks' in link):
+    if ('pdisk' in link or 'wslinker' in link or 'dplinks.net' in link or 'cdinks' in link or 'kuklink' in link or 'kofilink' in link or 'cofilink' in link or 'bit' in link or 'vdshort' in link or link in 'vidrivers' or 'dplinks' in link):
         res = await get_ptitle(link)
         title_pdisk = res[0]
         link = res[1]
@@ -149,7 +149,7 @@ async def addFooter(str):
 ━━━━━━━━━━━━━━━
 ⚙️ How to Download / Watch Online or Change Audio : https://bit.ly/pdisk_tuts
 ━━━━━━━━━━━━━━━
-⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
+⭐️JOIN CHANNEL FOR MORE CONTENT ➡️ t.me/""" + CHANNEL
     return str + footer
 
 bot.run()
